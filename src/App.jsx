@@ -25,10 +25,6 @@ import './index.css'
 //Example: eval("console.log('Hello')") will execute this code.
 // Use this method for all operations in the calculator.
 
-// function incrementPlus() {
-// 	setDisplayInput(prev => prev + 1)
-// }
-
 function Calculator() {
 	const [displayInput, setDisplayInput] = useState(0)
 
